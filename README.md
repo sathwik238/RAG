@@ -9,8 +9,6 @@ This project demonstrates the use of **Retrieval-Augmented Generation (RAG)** to
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [Future Improvements](#future-improvements)
 
 ---
 
