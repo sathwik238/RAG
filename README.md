@@ -23,7 +23,7 @@ The demo focuses on creating an end-to-end RAG solution for indexing and queryin
 ## Dataset
 
 ### Input Files:
-- Two sample PDF documents (`file1.pdf` and `file2.pdf`).
+- Two sample PDF documents (`Attention.pdf` and `YOLO.pdf`).
 - Documents contain text that needs to be indexed and queried.
 
 ### Features:
