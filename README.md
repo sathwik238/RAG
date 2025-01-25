@@ -110,5 +110,6 @@ This project focuses on extracting resume keywords from job descriptions stored 
    pip install -r requirements.txt
 
 3. Run the project-specific scripts:
+   ```bash
    1. job_keyword_extraction.ipynb
    2. pdf_search_system.ipynb
